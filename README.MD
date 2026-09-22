@@ -1,6 +1,6 @@
 ## ETL Project + Flask Dashboard
 
-## Final Result <img src="images/dashboard.png" width="800">
+## Final Result <img src="images/Flask App Screenshot.png" width="800">
 
 ### 📌 Overview
 

@@ -1,5 +1,7 @@
 ## ETL Project + Flask Dashboard
 
+## Final Result <img src="images/dashboard.png" width="800">
+
 ### 📌 Overview
 
 Build an ETL pipeline using Python with three data sources:
